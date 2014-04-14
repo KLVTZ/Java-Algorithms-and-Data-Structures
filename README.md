@@ -14,3 +14,5 @@ JavaScript Algorithms and Data Structures
 5. Boolean to Decimal
 
 7. OOP *Classes and Inheritance*
+
+8. Game Of Life
